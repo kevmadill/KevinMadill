@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+title:            'Vancouver Modern: on the limits of portraiture'
+description:      'vancouver portraiture Kevin Madill'
+url:              'https://kevmadill.github.io'
+baseurl:          '/portraiture-vancouver'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -61,16 +61,16 @@ kramdown:
 # For more info, refer to:
 # ~> https://jekyllrb.com/docs/collections/
 
-collections:
+collections: 
   exhibits:
     output: true
   qatar: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'vanpor_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'vanpor.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/vanpor' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -92,6 +92,7 @@ search:
           - label
           - _date
           - object_type
+          - dimensions
           - current_location
 
 # --------------------------------------------------------------
