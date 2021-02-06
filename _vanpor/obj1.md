@@ -18,3 +18,5 @@ manifest: "/img/derivatives/iiif/obj1/manifest.json"
 # Heading 
 
 Descriptive text
+
+<img src="img/name-of-folder/name-of-image.png" alt="description of image"> 
