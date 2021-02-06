@@ -20,3 +20,5 @@ manifest: "/img/derivatives/iiif/obj8/manifest.json"
 *Sister and Brother (portrait of Maya and Adrian Saunders)* makes use of a device previously employed in *Young Man at His Window (1991)* – an expanse of window frame functioning to differentiate public and private spheres and establish the foundational grid upon which the pictorial structure is built. Unlike so many ‘window pictures’[^1] by other artists, the window frame in my work is not used to open the eye to a vastness of space beyond. The goal here is something else, flatness. With *Sister and Brother*, the angled walls at the picture’s edges and the construction site in the distance focus the eye and curtail a limitless horizon.
 
 [^1]: Rewald, Sabine and Metropolitan Museum of Art (New York, N.Y.). 2011. *Rooms with a View: The Open Window in the 19th Century*. New York; New Haven, Conn; Metropolitan Museum of Art.
+
+<img src="img/name-of-folder/name-of-image.png" alt="description of image"> 
