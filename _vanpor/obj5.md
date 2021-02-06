@@ -14,3 +14,11 @@ thumbnail: "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/obj5/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj5/manifest.json"
 ---
+
+# Swinger
+
+“[Madill] pursued a study of the optical effects used in painting of the late 1960s and early 1970s. This hyped-up colour and the ability to manipulate images through computer technology has enabled him to produce work that has its basis in photography but makes strong connections to the realm of painting. In an unlikely, if not impossible, scene, Madill presents in Swinger a young man, clad in the clothing of the 1970s, flying through a yellow sky. The man’s clothing is in disarray, suggesting that he is swinging quickly, with abandon, but the blatant artificiality of the action, the colour of the sky, and the artificial stylized foliage suggest a conceit, a photographic trompe l’oeil, that opens up an imaginary world.”
+Thom, Ian M., et al. Art BC: Masterworks from British Columbia. Douglas & McIntyre, Vancouver, 2000.
+
+Swinger, as a ceiling work, is meant to confound. Those approaching it with the expectation of encountering photography will walk away from the image disappointed. Yes, a camera has been used to create base iconographic elements – though certainly not all. Yes, the picture is printed on photographic paper and, therefore, remains vulnerable to the medium’s vagaries. However, as Ian Thom proposes, Swinger is “a conceit” – a clever or surprising comparison/metaphor. As the author of the work, what I propose is that Swinger is, first and foremost, theatre. And as such, I would argue, the portrait better reveals its potential through comparisons to the productions of an Andrew Haigh, Marco Berger, Francis Lee, Pedro Almodóvar, François Ozon, or Lucio Castro. 
+
