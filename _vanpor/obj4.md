@@ -15,6 +15,6 @@ full: "/img/derivatives/iiif/images/obj4/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj4/manifest.json"
 ---
 
-# Thinking Photographer
+title: Thinking Photographer
 
 I remember attending an open lecture back in the early 1990s where a local artist who had made his name by exhibiting images of upside down trees had been invited to speak. As soon as these photographs were presented to the audience an uninformed young man raised his hand to let the speaker know that his slides were wrong way up. The audience roared with laughter. The young man was visibly mortified as he was made aware of his error. In painting, there is a long tradition of commenting on aesthetic perception, the representation of reality, and how both are linked to developmental stages in humans. Our generosity to those in the process of developing their aesthetic understanding and ‘getting it wrong’ in the process is a telling question for any cultural community.
