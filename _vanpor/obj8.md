@@ -6,7 +6,7 @@ label: Sister and Brother (portrait of Maya and Adrian Saunders)
 _date: '2005'
 object_type: Laserlight jet print
 dimensions: 167.64 x 228.6 cm
-current_location: Collection of Collen and Howard Nemtin
+current_location: Collection of Colleen and Howard Nemtin
 order: '7'
 layout: collection_item
 collection: vanpor
@@ -21,4 +21,4 @@ manifest: "/img/derivatives/iiif/obj8/manifest.json"
 
 [^1]: Rewald, Sabine and Metropolitan Museum of Art (New York, N.Y.). 2011. *Rooms with a View: The Open Window in the 19th Century*. New York; New Haven, Conn; Metropolitan Museum of Art.
 
-<img src="img/name-of-folder/name-of-image.png" alt="description of image"> 
+<img src="img/SupportImages/Alt.png" alt="Jakob Alt, View from the Artist's Studio in the Alservorstadt toward Dornbach, 1836, watercolor over graphite on paper, 52.1 x 42.1 cm, Albertina, Vienna, Austria"> 
