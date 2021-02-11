@@ -19,4 +19,4 @@ manifest: "/img/derivatives/iiif/obj1/manifest.json"
 
 *August 1979* was my first photograph. I was an aspiring sculptor prior to its production. Someone handed me Martin Jay’s essay on the scopic regimes of modernity and I became obsessed with putting his theories into practice. The incident depicted is based on a news report in the Body Politic that I had read when much younger and living in Ontario. Men from the surrounding areas of Vancouver would drive into the city to attack gay men and throw them over the Stanley Park sea wall. The piece was shown on the ceiling of Artspeak Gallery, Vancouver back in 1990. Afterwards, I used sections of the mural to cover up rubbish in a corner of my apartment. Good friends Claudia and Andrew noticed them on a visit and rescued the image from oblivion.
 
-<img src="img/SupportImages/AugustInstallation.png" alt="Kevin Madill, August 1979, Insitu 2014, Satellite Gallery, Vancouver, BC" height="50%" width="50%"> 
+<img src="img/SupportImages/AugustInstallation.png" alt="Kevin Madill, August 1979, Insitu 2014, Satellite Gallery, Vancouver, BC"> 
