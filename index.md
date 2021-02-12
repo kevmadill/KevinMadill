@@ -25,7 +25,7 @@ All of the images were inspired by events that either I witnessed personally ove
 
 From one perspective, this exhibition is documentary, capturing in visual format the ephemeral, what is slipping away of the past consequent to the radical transformation of the city. 
 
-From another, the exhibition is retrospective. I continue to make pictures. Reviewing these works in sequence allows me to uncover competing philosophical trajectories. What I asked of the genre in the earliest works was to have portraiture ‘say’ and ‘do’ social critique. Over time, another philosophical course gradually emerged, a move to social anthropology, particularly a contemplation on the meaning and psychology of the nuclear family: *Sisters (1996)* and *Sister and Brother (2001)*. What else can I say but that the move from an analysis of a public space rife with disfunction, ruthlessness, and cruelty to an analysis of a private space where individuals find a way to hold each other dear is not a bad thing.
+From another, the exhibition is retrospective. I continue to make pictures. Reviewing these works in sequence allows me to uncover competing philosophical trajectories. What I asked of the genre in the earliest works was to have portraiture ‘say’ and ‘do’ social critique. Over time, another philosophical course gradually emerged, a move to social anthropology, particularly a contemplation on the meaning and psychology of the nuclear family: *Sisters (1996)* and *Sister and Brother (2001)*. What else can I say but that the move from an analysis of a public space rife with dysfunction, ruthlessness, and cruelty to an analysis of a private space where individuals find a way to hold each other dear is not a bad thing.
 
 K Madill: Vancouver, British Columbia, December 2020
 
