@@ -23,7 +23,7 @@ description:      'vancouver portraiture Kevin Madill gay queer homosexual art'
 url:              'https://kevmadill.github.io'
 baseurl:          '/portraiture-vancouver'
 copyright:        '2020'
-logo:             ''
+logo:             
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
