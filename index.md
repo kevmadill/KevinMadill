@@ -29,6 +29,6 @@ From another, the exhibition is retrospective. I continue to make pictures. Revi
 
 K Madill: Vancouver, British Columbia, December 2020
 
-## Browse the Collection
+## Browse the Exhibition
 
 {% include collection_gallery.html facet_by='object_type' collection='vanpor' %}
