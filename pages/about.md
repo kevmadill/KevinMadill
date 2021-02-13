@@ -1,8 +1,13 @@
 ---
 layout: page
-title: What is Wax?
+title: About the exhibition
 permalink: /about/
 ---
+
+This exhibition was made possible by recovering and scanning old photographic slides. Little remains of the pictures exhibited here except where an institution or collector holds a final print. 
+For their help in the online exhibition process, I would like to thank Eka, Dave, and Robert.
+To those who sat for me and participated in the creation of these works, thank you for your time and trust.
+
 
 **Wax helps you create digital exhibits.**   
 A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
