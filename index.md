@@ -16,6 +16,17 @@ The logic of portraiture shifts in accordance with the various demands placed up
 
 <img src="img/SupportImages/BellelliFamily.png" width="512" height="409.5" alt="Edgar Degas, The Bellelli Family, 1858-1867, Oil on canvas, 200 x 253 cm, Musée d'Orsay, Paris, France"/> 
 
+<div class='inline-image-reference'>
+  <a href='{{ item.url | absolute_url }}'>
+    <img src="img/SupportImages/BellelliFamily.png" width="512" height="409.5"/>
+  </a>
+  {% if item.label %}
+  <p class='image-caption'>
+    Above: "Edgar Degas, The Bellelli Family, 1858-1867, Oil on canvas, 200 x 253 cm, Musée d'Orsay, Paris, France"/> </a>
+  </p>
+  {% endif %}
+</div>
+
 Degas exhibited *The Bellelli Family* only once in his lifetime, in the Paris Salon of 1867. The painting was found after the author’s death rolled up in a corner of his studio. Why this unhappy fate? Was the picture withdrawn because the author realized he had left his cousins too exposed and vulnerable in his pictorial assessment of the them and their predicament? It takes an imperturbable being to sit before a master portraitist. Or were Degas’s observations and reflections on family life of the 19th century French haute bourgeoisie too unsettling for his contemporaries? Even today, public critique of societal conventions are assumed by many to undermine social stability.
 
 Regardless, the point here is that portraiture at its most significant has a discursive character capable of the deepest philosophical engagement and enquiry. Whether that character can be fully identified, understood, and/or appreciated at the point of a portrait’s reception, well…that’s another matter.
