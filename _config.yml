@@ -105,12 +105,10 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'The Exhibition'
+      - label: 'Exhibit'
         link: '/about/'
       - label: 'Credits'
         link: '/credits/'
-  - label: 'Browse'
-    link: '/collection/'
   - label: 'Search'
     link: '/search/'
 
