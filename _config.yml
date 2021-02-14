@@ -104,11 +104,9 @@ search:
 
 menu:
   - label: 'About'
-    sub:
-      - label: 'Exhibit'
-        link: '/about/'
-      - label: 'Credits'
-        link: '/credits/'
+    link: '/about/'
+  - label: 'Credits'
+    link: '/credits/'
   - label: 'Search'
     link: '/search/'
 
