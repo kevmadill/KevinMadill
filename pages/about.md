@@ -12,7 +12,3 @@ To those who sat for me and participated in the creation of these works, thank y
 
 
 From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
-
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
