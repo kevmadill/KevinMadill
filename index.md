@@ -1,9 +1,9 @@
 ---
 layout: page
 show_title: false
-banner:
+banner: <img src="https://kevmadill.github.io/portraiture-vancouver/img/SupportImages/VancouverPostcard.png">
   collection: vanpor
-  pid: <img src="https://kevmadill.github.io/portraiture-vancouver/img/SupportImages/VancouverPostcard.png">
+  pid: obj10
   y: 25%
   height: '500px'
 ---
