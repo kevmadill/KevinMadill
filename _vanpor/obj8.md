@@ -21,4 +21,4 @@ manifest: "/img/derivatives/iiif/obj8/manifest.json"
 
 [^1]: Rewald, Sabine and Metropolitan Museum of Art (New York, N.Y.). 2011. *Rooms with a View: The Open Window in the 19th Century*. New York; New Haven, Conn; Metropolitan Museum of Art.
 
-<img src="https://kevmadill.github.io/portraiture-vancouver/img/SupportImages/Alt.png" alt="Jakob Alt, View from the Artist's Studio in the Alservorstadt toward Dornbach, 1836, watercolor over graphite on paper, 52.1 x 42.1 cm, Albertina, Vienna, Austria" width="363.63" height="454.55"> 
+<img src="https://kevmadill.github.io/portraiture-vancouver/img/SupportImages/Alt.png" alt="Jakob Alt, View from the Artist's Studio in the Alservorstadt toward Dornbach, 1836, watercolor over graphite on paper, 52.1 x 42.1 cm, Albertina, Vienna, Austria" width="380.95" height="476.19"> 
