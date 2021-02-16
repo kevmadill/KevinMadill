@@ -21,4 +21,4 @@ manifest: "/img/derivatives/iiif/obj1/manifest.json"
 
 <img src="https://kevmadill.github.io/portraiture-vancouver/img/SupportImages/AugustInstallation.png" alt="Kevin Madill, August 1979, In situ 2014, Satellite Gallery, Vancouver, BC" width="437.143" height="582.857"/> 
 
-*August 1979 (picture for a ceiling), 2014, photographed in situ, Satellite Gallery, Vancouver, BC*
+*August 1979 (picture for a ceiling), photographed in situ, Satellite Gallery, Vancouver, BC*
