@@ -21,3 +21,4 @@ manifest: "/img/derivatives/iiif/obj3/manifest.json"
 
 <img src="https://kevmadill.github.io/portraiture-vancouver/img/SupportImages/Parmig.png" > 
           
+*Parmigianino, Self-portrait in a Convex Mirror, c. 1524, oil on convex panel, 24.4 cm diameter, Kunsthistorisches Museum*
