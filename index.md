@@ -3,7 +3,7 @@ layout: default
 show_title: false
 banner:
   collection: vanpor
-  pid: <img src="img/SupportImages/VancouverPostcard.png"
+  pid: obj5
   y: 25%
   height: '500px'
 ---
