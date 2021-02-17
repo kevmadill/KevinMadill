@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 show_title: false
 banner:
   collection: vanpor
-  pid: obj10
+  pid: <img src="img/SupportImages/VancouverPostcard.png"
   y: 25%
   height: '500px'
 ---
