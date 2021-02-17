@@ -2,7 +2,7 @@
 layout: default
 show_title: false
 banner:
-  collection: collection_item
+  collection: vanpor
   pid: obj5
   y: 25%
   height: '500px'
