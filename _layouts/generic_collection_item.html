@@ -1,5 +1,6 @@
 ---
 layout: default
+image_viewer: 'openseadragon'
 meta:
   - label: 'Label'
     value: page.label
@@ -26,6 +27,12 @@ meta:
 {% endcomment %}
 
 <h3 alt="{{ page.label }}" class='item-label'>{{ page.label }}</h3>
+
+{% if page.image_viewer %}
+  {% assign viewer = page.image_viewer %}
+{% elsif layout.image_viewer %}
+  {% assign viewer = layout.image_viewer %}
+{% endif %}
 
   <div class='item-view'>
     <span class='pagination-link' id='prevlink'></span>
