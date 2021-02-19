@@ -8,7 +8,7 @@ object_type: C-print mural shaped canvas photograph
 dimensions: 210 x 217 cm
 current_location: Belkin Art Gallery
 order: '2'
-layout: generic-collection_item
+layout: generic_collection_item
 collection: vanpor
 thumbnail: "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/obj3/full/1140,/0/default.jpg"
