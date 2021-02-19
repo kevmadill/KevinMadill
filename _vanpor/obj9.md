@@ -8,14 +8,12 @@ object_type: R print
 dimensions: 274.32 x 106.68 cm
 current_location: Vancouver Art Gallery
 order: '8'
-layout: collection_item
+layout: generic_collection_item
 collection: vanpor
 thumbnail: "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/obj9/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj9/manifest.json"
 ---
-
-### The Disaffected Hairdresser
 
 *Disaffected Hairdresser* makes use of a visual device beautifully executed by Degas in his pastel *Ballet from an Opera Box (1884)*. Three spatial layers – foreground, middle-ground, and distance, are abutted one above each other on the flat plane of the canvas without any use of recession to achieve a compelling, dramatic effect. In a playful move, I replaced the hand of the spectator watching the stage which Degas had situated in the pastel’s foreground with the hairdresser’s foot and made more intricate middle-ground and far away through use of a mirror. Such spatial play will always and forever reference the complexities of modern urban life, something that has worked both to the advantage and disadvantage of the modern homosexual. 
 
