@@ -1,0 +1,23 @@
+I" 
+<div class="search-block">
+  <div class="input-group">
+    <input type="text" class="form-control" id="search" name="x" placeholder="Search... " />
+  </div>
+  <div id="results"></div>
+</div>
+
+<script type="text/javascript" src="http://localhost:4000/portraiture-vancouver/assets/elasticlunr.min.js"></script>
+
+<script type="text/javascript" src="http://localhost:4000/portraiture-vancouver/assets/search-ui.js"></script>
+
+<script type="text/javascript">
+  var fields    = ["artist","location","label","_date","object_type","dimensions","current_location"];
+  var indexFile = "http://localhost:4000/portraiture-vancouver/search/index.json";
+  var url       = "http://localhost:4000/portraiture-vancouver";
+
+  $(document).ready(function() {
+    startSearchUI(fields, indexFile, url);
+  });
+</script>
+
+:ET
