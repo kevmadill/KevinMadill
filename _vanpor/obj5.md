@@ -8,14 +8,12 @@ object_type: Lambda digital C-type print  shaped canvas photograph
 dimensions: 279 x 279 cm
 current_location: Vancouver Art Gallery
 order: '4'
-layout: collection_item
+layout: generic_collection_item
 collection: vanpor
 thumbnail: "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/obj5/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj5/manifest.json"
 ---
-
-### Swinger
 
 “[Madill] pursued a study of the optical effects used in painting of the late 1960s and early 1970s. This hyped-up colour and the ability to manipulate images through computer technology has enabled him to produce work that has its basis in photography but makes strong connections to the realm of painting. In an unlikely, if not impossible, scene, Madill presents in *Swinger* a young man, clad in the clothing of the 1970s, flying through a yellow sky. The man’s clothing is in disarray, suggesting that he is swinging quickly, with abandon, but the blatant artificiality of the action, the colour of the sky, and the artificial stylized foliage suggest a conceit, a photographic trompe l’oeil, that opens up an imaginary world.”[^1]
 
