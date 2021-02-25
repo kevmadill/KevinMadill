@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Vancouver Modern: on the limits of portraiture'
-description:      'vancouver portraiture Kevin Madill gay queer homosexual art'
+description:      'An exhibition of art installation portraiture photography by Kevin Madill examining transformations to urban life in Vancouver, British Columbia at the end of the twentieth century.'
 url:              'https://kevmadill.github.io'
 baseurl:          '/portraiture-vancouver'
 copyright:        'K Madill, 2020'
