@@ -16,3 +16,7 @@ manifest: "/img/derivatives/iiif/obj7/manifest.json"
 ---
 
 *The Architect’s Wife* is the result of a happy discovery – a pair of mid-century male/female lounge chairs. While one spouse dominates the title, it is the other who extends herself across the domestic interior metaphorically created through the use of furniture. Not all marriages are based on love or even mutual affection. Marriage, from a legal perspective, is a contractual arrangement between partners that can enable multiple objectives. The iconographic elements are kept to a minimum. Their careful selection and placement allow the viewer to come to an understanding of the absence of the male partner and how some women and homosexual men have navigated traditional middle-class marriage for mutual advantage. The reference to *Olympia* here has everything to do with creatively imagining the fate of an independent spirit like Victorine Meurent’s after consorting with the likes of an Édouard Manet and his colleagues.
+
+<img src="https://kevmadill.github.io/portraiture-vancouver/img/SupportImages/Meurent.png" alt="Édouard Manet, Victorine Meurent, 1862, Oil on canvas, 42.9 x 43.8 cm, Museum of Fine Arts, Boston, US" width="380.952" height="373.809"> 
+
+*Édouard Manet, Victorine Meurent, 1862, Oil on canvas, 42.9 x 43.8 cm, Museum of Fine Arts, Boston, US
