@@ -19,4 +19,4 @@ manifest: "/img/derivatives/iiif/obj7/manifest.json"
 
 <img src="https://kevmadill.github.io/portraiture-vancouver/img/SupportImages/Meurent.png" alt="Édouard Manet, Victorine Meurent, 1862, Oil on canvas, 42.9 x 43.8 cm, Museum of Fine Arts, Boston, US" width="380.952" height="373.809"> 
 
-*Édouard Manet, Victorine Meurent, 1862, Oil on canvas, 42.9 x 43.8 cm, Museum of Fine Arts, Boston, US
+*Édouard Manet, Victorine Meurent, 1862, Oil on canvas, 42.9 x 43.8 cm, Museum of Fine Arts, Boston, US*
