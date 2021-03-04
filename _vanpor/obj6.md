@@ -19,4 +19,4 @@ manifest: "/img/derivatives/iiif/obj6/manifest.json"
 
 <img src="https://kevmadill.github.io/portraiture-vancouver/img/SupportImages/SistersInSitu.png" alt="Kevin Madill, Sisters, Insitu 2015, Presentation House Gallery, North Vancouver, BC" width="678" height="450"> 
 
-*Sisters (photograph of Kristin and Marie Schopp), photographed in situ, Presentation House Gallery, North Vancouver, BC*
+*Sisters (photograph of Kristin and Marie Schopp), photographed in situ, with permission from Presentation House Gallery, North Vancouver, BC*
