@@ -22,6 +22,7 @@ This picture was produced to accompany *August 1979 (1991)*. It’s a double bac
 *Edgar Degas, Woman at a Window, 1872, Oil on board, 61.3 x 45.9 cm, Courtauld Gallery, London, UK*
 
 
+
 <img src="https://kevmadill.github.io/portraiture-vancouver/img/SupportImages/Caillebotte.png" width="363.636" height="531.363"> 
 
 *Gustav Caillebotte, Jeune homme à sa fenêtre, 1875, Oil on canvas, 117 x 82 cm, private collection*
