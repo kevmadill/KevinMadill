@@ -107,7 +107,7 @@ menu:
     link: '/about/'
   - label: 'Credits'
     link: '/credits/'
-    label: 'Contact'
+  - label: 'Contact'
     link: '/contact/'
 
 # --------------------------------------------------------------
