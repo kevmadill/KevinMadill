@@ -107,8 +107,6 @@ menu:
     link: '/about/'
   - label: 'Credits'
     link: '/credits/'
-  - label: 'Contact'
-    link: '/contact/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
