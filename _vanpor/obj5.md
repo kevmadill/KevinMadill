@@ -19,7 +19,7 @@ manifest: "/img/derivatives/iiif/obj5/manifest.json"
 
 <img src="https://kevmadill.github.io/portraiture-vancouver/img/SupportImages/YYZ.png" width="563.75" height="440.625"/>
 
-*Swinger (picture for a ceiling), in situ photography by Peter MacCallum, YYZ Artists' Outlet, Toronto, Ontario*
+*Swinger (picture for a ceiling), in situ photograph by Peter MacCallum, YYZ Artists' Outlet, Toronto, Ontario*
 
 *Swinger*, as a ceiling work, is meant to confound. Those approaching it with the expectation of encountering photography will walk away from the image disappointed. Yes, a camera has been used to create base iconographic elements – though certainly not all. Yes, the picture is printed on photographic paper and, therefore, remains vulnerable to the medium’s vagaries. However, as Ian Thom proposes, Swinger is “a conceit” – a clever, surprising comparison or metaphor. As the author of the work, what I propose is that Swinger is, first and foremost, theatre. And as such, I would argue, this fantasy portrait better reveals its potential through comparisons to the productions of an Andrew Haigh, Marco Berger, Francis Lee, Pedro Almodóvar, François Ozon, or Lucio Castro.
 
