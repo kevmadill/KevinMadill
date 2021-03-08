@@ -26,3 +26,4 @@ manifest: "/img/derivatives/iiif/obj5/manifest.json"
 Selecting a different perspective from which to view *Swinger*, I see this image as emblematic. Nothing lasts forever. Nothing ever could. Moments of abandon, pleasure, and excess stand between others defined by values of a different sort. The merit of such moments of unrestraint lies in their capacity to offer insights and opportunities not afforded by any other means. The end of the twentieth century was for some on this continent – certainly not all – a wild and promising episode. The author poses a  question to those who found advantage in the moment: What did we do with this time?
 
 [^1]: Thom, Ian M., et al. *Art BC: Masterworks from British Columbia*. Douglas & McIntyre, Vancouver, 2000.
+
